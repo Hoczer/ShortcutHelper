@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PomocnikSkrotowy.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="nazwaOkna" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Lista klientów</Value>
+    </Setting>
+    <Setting Name="nazwaPrzycisku" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Skrót</Value>
+    </Setting>
+    <Setting Name="skrotString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">^a</Value>
+    </Setting>
+    <Setting Name="allwaysOnTop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="literaSkrotu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">a</Value>
+    </Setting>
+    <Setting Name="lokacja" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">250, 250</Value>
+    </Setting>
+    <Setting Name="wysokosc" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">338</Value>
+    </Setting>
+    <Setting Name="szerokosc" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">389</Value>
+    </Setting>
+    <Setting Name="lokacjaListy" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">300, 250</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
